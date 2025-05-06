@@ -1,8 +1,19 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Welcome</title>
+<title> Predict the Result </title>
+<meta charset="utf-8">
 </head>
 <body>
-Welcome to IT103F Web Publishing
+<code>
+#include &lt;stdio.h&gt; <br/>
+#include &lt;sys/types.h&gt; <br/>
+#include &lt;sys/socket.h&gt; <br/>
+main(int argc, char *argv[]) <br/>
+{<br/>
+char mess[80];<br>
+printf("This is a demo..");<br/>
+}<br/>
+</code>
 </body>
 </html>
